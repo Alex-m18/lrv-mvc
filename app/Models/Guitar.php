@@ -20,7 +20,7 @@ class Guitar extends Model
 
     public function guitarType()
     {
-        return $this->belongsTo(GuitarType::class, 'type_id', 'id')->first();
+        return $this->belongsTo(GuitarType::class, 'type_id', 'id');
     }
 
 }

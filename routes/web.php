@@ -22,7 +22,7 @@ Route::get('/show/{id}', function ($id) {
         'ID: ' . $id . '<br>' .
         'Brand: ' . $guitar['brand'] . '<br>' .
         'Model: ' . $guitar['model'] . '<br>' .
-        'Type: ' . $guitar->guitarType()['type'] . '<br>' .
+        'Type: ' . $guitar->guitarType()->value('type') . '<br>' .
         'Price: ' . $guitar['price'] . '<br>';
 })->where('id', '[0-9]+');
 

@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="43047b43-1729-4d1e-aee1-d28274d58d2e" name="Default Changelist" comment="" />
+    <list default="true" id="43047b43-1729-4d1e-aee1-d28274d58d2e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/Guitar.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/Guitar.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/GuitarType.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/GuitarType.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PackageJsonUpdateNotifier">
     <dismissed value="$PROJECT_DIR$/package.json" />
@@ -126,6 +134,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1heHW2DXpIorXlZckdBAbaxCVtA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -150,7 +159,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600364669658</updated>
-      <workItem from="1600364671797" duration="10363000" />
+      <workItem from="1600364671797" duration="11161000" />
+      <workItem from="1600800517940" duration="1935000" />
     </task>
     <servers />
   </component>
